@@ -1,5 +1,6 @@
 # Bootcamp IGTI - Desenvolvedor Fullstack
-![](logo.jpg =252x250)
+![](logo.jpg =252x250){:height="252px" width="250px"}
+<img src="logo.jpg" width="252" height="250">
 > O Bootcamp tem como objetivo oferecer uma formação prática e intensiva
 > que habilite o profissional para atuar como desenvolvedor Full Stack.
 
