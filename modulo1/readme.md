@@ -5,7 +5,7 @@ Professor: Raphael Gomide (@rrgomide)
 ## Objetivos 
  - Introdução ao JavaScript.
  - Integração do JavaScript com o HTML e CSS. 
- - JavaScript básico – console, comentários, tipos primitivos, variáveis, API’s nativas de servidor e web, funções, estruturas de decisão, estruturas de repetição, manipulação de eventos.
+ - JavaScript básico – console, comentários, tipos primitivos, variáveis, API’s nativas de servidor e web, funções, estruturas de decisão, estruturas de repetição, manipulação de eventos.  
 **Duração: 32 horas**
 
 ## Entregas
