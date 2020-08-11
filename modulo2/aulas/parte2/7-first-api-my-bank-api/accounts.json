@@ -1,0 +1,10 @@
+{
+    "nextId": 2,
+    "accounts": [
+        {
+            "id": 1,
+            "name": "Victor Rubens da Silva Santos",
+            "balance": 543.13
+        }
+    ]
+}
